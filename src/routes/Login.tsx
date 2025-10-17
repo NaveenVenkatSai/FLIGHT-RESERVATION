@@ -42,7 +42,7 @@ export const Login = () => {
         {/* Header */}
         <div className="bg-primary text-white p-8 text-center">
           <div className="text-4xl mb-2">✈️</div>
-          <h1 className="text-2xl font-bold mb-1">Tarak Flight Booking</h1>
+          <h1 className="text-2xl font-bold mb-1">AIR LINE RESERVATION</h1>
           <p className="text-red-100 text-sm">Your Journey Begins Here</p>
         </div>
 
